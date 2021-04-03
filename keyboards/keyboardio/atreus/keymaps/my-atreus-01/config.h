@@ -68,7 +68,7 @@
  */
 
 /* disable debug print */
-//#define NO_DEBUG
+#define NO_DEBUG
 
 /* disable print */
 //#define NO_PRINT
@@ -80,4 +80,4 @@
 //#define NO_ACTION_MACRO
 //#define NO_ACTION_FUNCTION
 
-#define TAPPING_TERM 200
+#define TAPPING_TERM 300
